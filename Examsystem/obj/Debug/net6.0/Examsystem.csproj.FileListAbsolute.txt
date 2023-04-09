@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\bin\Debug\net6.0\Examsystem.exe
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\bin\Debug\net6.0\Examsystem.deps.json
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\bin\Debug\net6.0\Examsystem.runtimeconfig.json
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\bin\Debug\net6.0\Examsystem.dll
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\bin\Debug\net6.0\Examsystem.pdb
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.dll
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\refint\Examsystem.dll
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.pdb
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\Examsystem.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Examsystem\Examsystem\obj\Debug\net6.0\ref\Examsystem.dll
